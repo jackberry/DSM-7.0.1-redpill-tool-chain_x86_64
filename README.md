@@ -10,8 +10,8 @@ sudo apt install jq
 sudo apt install curl
 ```
 3. 下载编译工具链
-
-   [redpill-tool-chain_x86_64_v0.10 https://xpenology.com/forum/applications/core/interface/file/attachment.php?id=13072](/uri)
+    redpill-tool-chain_x86_64_v0.10 
+    [https://xpenology.com/forum/applications/core/interface/file/attachment.php?id=13072](/uri)
 4. 去文件夹配置权限
 ```
 cd redpill-tool-chain_x86_64_v0.10
