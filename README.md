@@ -11,7 +11,8 @@ sudo apt install curl
 ```
 3. 下载编译工具链
     redpill-tool-chain_x86_64_v0.10 
-    [https://xpenology.com/forum/applications/core/interface/file/attachment.php?id=13072](/uri)
+
+    [https://xpenology.com/forum/applications/core/interface/file/attachment.php?id=13072]
 4. 去文件夹配置权限
 ```
 cd redpill-tool-chain_x86_64_v0.10
@@ -50,4 +51,4 @@ vi bromolow_user_config.json
 
 原文链接
 
-[https://xpenology.com/forum/topic/45795-redpill-the-new-loader-for-624-discussion/page/76/](/uri)
+[https://xpenology.com/forum/topic/45795-redpill-the-new-loader-for-624-discussion/page/76/]
